@@ -54,7 +54,7 @@ License
 This project is licensed under the MIT License.
 
 Contact
-If you have any questions or need assistance, please contact your-email@example.com.
+If you have any questions or need assistance, please contact berrialaeddine@example.com.
 
 You can customize this README file by replacing "Project Name" with your actual project name, adding or modifying sections based on your project's requirements, and providing your own contact information.
 
